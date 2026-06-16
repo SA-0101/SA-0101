@@ -25,10 +25,10 @@ My focus is always on writing **clean, maintainable code** and building smooth, 
 HTML · CSS · JavaScript
 
 **Libraries & Frameworks**  
-React.js · Redux · Tailwind CSS · Bootstrap
+React.js · Redux · Tailwind CSS
 
 **Tools & Platforms**  
-Git · VS Code · Figma · Postman · Firebase
+Git · VS Code · Figma · Postman
 
 **Core Skills**  
 📱 Responsive Design  
